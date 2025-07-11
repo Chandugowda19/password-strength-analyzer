@@ -32,10 +32,7 @@ A cybersecurity project that analyzes password strength and generates custom wor
 
 ---
 
-## 📸 Screenshots
 
-<img src="screenshots/gui1.png" width="400"/>  
-<img src="screenshots/gui2.png" width="400"/>
 
 ---
 
